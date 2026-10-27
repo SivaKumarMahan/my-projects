@@ -7,3 +7,4 @@ Write-ups of real DevOps project work: architecture, infrastructure as code, CI/
 | Project 1 — Warehouse Management System on AKS | Azure, AKS, Bicep Deployment Stacks, Azure DevOps, Helm | [real-projects/project1/README.md](real-projects/project1/README.md) |
 | Project 2 — AWS platform and operations automation | AWS, OpenTofu, GitHub Actions, ECS, Ansible, Databricks | [real-projects/project2/README.md](real-projects/project2/README.md) |
 | Project 3 — AI news and contracts platform | Azure Bicep, Jenkins + SonarQube, Azure DevOps, Terraform, AWS CDK, CloudFormation | [real-projects/project3/README.md](real-projects/project3/README.md) |
+| Hands-on lab — Three-tier app on private AKS | Terraform, private AKS, App Gateway WAF + AGIC, PostgreSQL private endpoint, Key Vault + Workload Identity, GitHub Actions, SonarQube Cloud, Trivy, Helm, Azure Monitor, Prometheus, Grafana | [handson/README.md](handson/README.md) |
